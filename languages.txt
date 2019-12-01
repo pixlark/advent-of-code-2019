@@ -1,0 +1,33 @@
+NOTE: Not every language will get used, this is just a tool for
+thinking about which language to use next.
+
+[01] Bash
+
+[--] APL
+[--] Assembly (x86_64)
+[--] Badge
+[--] C#
+[--] C
+[--] Cobol
+[--] Common Lisp
+[--] D
+[--] Fortran
+[--] Go
+[--] Haskell
+[--] J
+[--] Java
+[--] Javascript
+[--] LDPL
+[--] LLVM IR
+[--] Modern C++
+[--] Nim
+[--] OCaml
+[--] PHP
+[--] Perl
+[--] Prolog
+[--] Python
+[--] Raku
+[--] Rust
+[--] Scheme
+[--] Standard ML
+[--] Zig
