@@ -1,13 +1,12 @@
-NOTE: Not every language will get used, this is just a tool for
-thinking about which language to use next.
+NOTE: Not every language will get used, and not neccessarily every day will be a different language. This is just a tool for thinking about what language I want to use.
 
 [01] Bash
+[02] C
 
 [--] APL
 [--] Assembly (x86_64)
 [--] Badge
 [--] C#
-[--] C
 [--] Cobol
 [--] Common Lisp
 [--] D
@@ -17,6 +16,7 @@ thinking about which language to use next.
 [--] J
 [--] Java
 [--] Javascript
+[--] Julia
 [--] LDPL
 [--] LLVM IR
 [--] Modern C++
